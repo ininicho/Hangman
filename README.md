@@ -1,4 +1,4 @@
 # Hangman
 Hangman Game made using Python
 
-This is a simple hangman game. The words are countries from all over the world.
+This is a simple hangman game. Players can guess letter by letter or the word directly.
