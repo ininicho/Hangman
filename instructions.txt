@@ -1,1 +1,8 @@
-Ur dumb.
+#################################
+This is your average Hangman game.
+Guess the word and you will win!
+You can guess letter by letter or the word directly.
+If you're wrong, life will be deducted.
+You only have 5 lives.
+Guess the word! Have Fun!
+#################################
